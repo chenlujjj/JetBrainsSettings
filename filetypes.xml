@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="jdp" type="Groovy" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="proto1" type="PLAIN_TEXT" />
+      <removed_mapping ext="jdp" approved="true" type="Native" />
+      <removed_mapping ext="proto" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>

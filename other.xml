@@ -1,0 +1,67 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10822511" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12143291" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.1383126" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16064256" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="InstalledPluginsSearchHistory" value="findbug&#10;codota&#10;file type&#10;p lu&#10;sca" />
+    <property name="JUnit.Splitter.Proportion" value="0.16873986" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JavaeeViewModulesPanel[0]" value="0.10822511" />
+    <property name="LiveContextsPanel[0]" value="0.10995052" />
+    <property name="LiveContextsPanel[1]" value="0.15384616" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RegistryRecentKeys" value="compiler.automake.allow.when.app.running" />
+    <property name="SettingsSearchHistory" value="plugin&#10;before com&#10;build&#10;compile&#10;auto" />
+    <property name="SplitFileEditor.Proportion" value="0.6317365" />
+    <property name="SpringBeansModulesPanel[0]" value="0.10822511" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12143291" />
+    <property name="SpringMvcModulesPanel[0]" value="0.10822511" />
+    <property name="SpringMvcModulesPanel[1]" value="0.12143291" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.10822511" />
+    <property name="TrendingPluginsSearchHistory" value="find bugs&#10;findbug&#10;codota&#10;protobuf&#10;jenkins" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="codota_token" value="COf1eT1BSCV63Ug7kQf9jN+ToH63b5vFRT2qfsLGSkipth22dtNAOYD8dqn3YHRLUUEB+GJzwwzTWF5ir7TFNEHokUZIhG8T" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt.183" value="16a8dae8f7d" />
+    <property name="evlsprt2.183" value="16a5508b0f3" />
+    <property name="evlsprt3.183" value="11" />
+    <property name="file.gist.reindex.count" value="43318" />
+    <property name="fileTypeChangedCounter" value="7" />
+    <property name="ideavim.statistics.timestamp" value="1565593647383" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="56626" />
+    <property name="kotlin.lastUpdateCheck" value="1563638670855" />
+    <property name="last.used.gradle.home" value="/usr/local/bin/gradle" />
+    <property name="lastTip" value="52" />
+    <property name="learn.toolwindow.button.info.shown" value="true" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Spring Initializr" />
+    <property name="scala.last.updated" value="1554708035520" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SQL" value="Tabs and Indents" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="typescript.show.auto.import" value="false" />
+  </component>
+</application>

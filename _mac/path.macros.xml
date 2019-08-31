@@ -1,0 +1,8 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="GATEWAYHOST" value="http://10.10.12.55:9300" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/chenluxin/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/183.5912.21/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/chenluxin/.m2/repository" />
+    <macro name="mypassword" value="Beaman940118" />
+  </component>
+</application>
